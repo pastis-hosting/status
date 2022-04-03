@@ -18,7 +18,4 @@ assignees:
 status-website:
   cname: status.pastis-hosting.net
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: État des services | Pastis Hosting
-  navbar:
-    - title: Pastis Hosting
-      href: https://www.pastis-hosting.net
+  name: État des services
