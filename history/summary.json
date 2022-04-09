@@ -4,36 +4,40 @@
     "url": "https://argocd.pastis-hosting.net",
     "icon": "https://favicons.githubusercontent.com/argocd.pastis-hosting.net",
     "slug": "argocd",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 503,
-    "timeDay": 542,
-    "timeWeek": 503,
-    "timeMonth": 503,
-    "timeYear": 503,
-    "dailyMinutesDown": {}
+    "time": 496,
+    "timeDay": 470,
+    "timeWeek": 496,
+    "timeMonth": 496,
+    "timeYear": 496,
+    "dailyMinutesDown": {
+      "2022-04-09": 0
+    }
   },
   {
     "name": "keycloak",
     "url": "https://keycloak.pastis-hosting.net",
     "icon": "https://favicons.githubusercontent.com/keycloak.pastis-hosting.net",
     "slug": "keycloak",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 461,
-    "timeDay": 478,
-    "timeWeek": 461,
-    "timeMonth": 461,
-    "timeYear": 461,
-    "dailyMinutesDown": {}
+    "time": 457,
+    "timeDay": 438,
+    "timeWeek": 457,
+    "timeMonth": 457,
+    "timeYear": 457,
+    "dailyMinutesDown": {
+      "2022-04-09": 0
+    }
   },
   {
     "name": "status",
@@ -42,7 +46,7 @@
     "slug": "status",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,24 +55,28 @@
     "timeWeek": 163,
     "timeMonth": 163,
     "timeYear": 163,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-09": 0
+    }
   },
   {
     "name": "www",
     "url": "https://www.pastis-hosting.net",
     "icon": "https://favicons.githubusercontent.com/www.pastis-hosting.net",
     "slug": "www",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 434,
-    "timeDay": 490,
-    "timeWeek": 434,
-    "timeMonth": 434,
-    "timeYear": 434,
-    "dailyMinutesDown": {}
+    "time": 430,
+    "timeDay": 434,
+    "timeWeek": 430,
+    "timeMonth": 430,
+    "timeYear": 430,
+    "dailyMinutesDown": {
+      "2022-04-09": 0
+    }
   }
 ]
