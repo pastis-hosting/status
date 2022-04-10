@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/argocd.pastis-hosting.net",
     "slug": "argocd",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 496,
-    "timeDay": 470,
-    "timeWeek": 496,
-    "timeMonth": 496,
-    "timeYear": 496,
+    "uptime": "90.42%",
+    "uptimeDay": "30.78%",
+    "uptimeWeek": "90.11%",
+    "uptimeMonth": "90.42%",
+    "uptimeYear": "90.42%",
+    "time": 487,
+    "timeDay": 378,
+    "timeWeek": 479,
+    "timeMonth": 487,
+    "timeYear": 487,
     "dailyMinutesDown": {
-      "2022-04-09": 0
+      "2022-04-10": 26,
+      "2022-04-09": 970
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://favicons.githubusercontent.com/keycloak.pastis-hosting.net",
     "slug": "keycloak",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 457,
-    "timeDay": 438,
-    "timeWeek": 457,
-    "timeMonth": 457,
-    "timeYear": 457,
+    "uptime": "90.45%",
+    "uptimeDay": "30.78%",
+    "uptimeWeek": "90.11%",
+    "uptimeMonth": "90.45%",
+    "uptimeYear": "90.45%",
+    "time": 452,
+    "timeDay": 379,
+    "timeWeek": 437,
+    "timeMonth": 452,
+    "timeYear": 452,
     "dailyMinutesDown": {
-      "2022-04-09": 0
+      "2022-04-10": 26,
+      "2022-04-09": 970
     }
   },
   {
@@ -45,18 +47,19 @@
     "icon": "https://favicons.githubusercontent.com/status.pastis-hosting.net",
     "slug": "status",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 163,
-    "timeDay": 181,
-    "timeWeek": 163,
-    "timeMonth": 163,
-    "timeYear": 163,
+    "uptime": "71.34%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "70.34%",
+    "uptimeMonth": "71.34%",
+    "uptimeYear": "71.34%",
+    "time": 164,
+    "timeDay": 182,
+    "timeWeek": 164,
+    "timeMonth": 164,
+    "timeYear": 164,
     "dailyMinutesDown": {
-      "2022-04-09": 0
+      "2022-04-10": 78,
+      "2022-04-09": 2910
     }
   },
   {
@@ -65,18 +68,19 @@
     "icon": "https://favicons.githubusercontent.com/www.pastis-hosting.net",
     "slug": "www",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 430,
-    "timeDay": 434,
-    "timeWeek": 430,
-    "timeMonth": 430,
-    "timeYear": 430,
+    "uptime": "90.45%",
+    "uptimeDay": "30.79%",
+    "uptimeWeek": "90.11%",
+    "uptimeMonth": "90.45%",
+    "uptimeYear": "90.45%",
+    "time": 425,
+    "timeDay": 362,
+    "timeWeek": 411,
+    "timeMonth": 425,
+    "timeYear": 425,
     "dailyMinutesDown": {
-      "2022-04-09": 0
+      "2022-04-10": 27,
+      "2022-04-09": 970
     }
   }
 ]
