@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/argocd.pastis-hosting.net.ico",
     "slug": "argocd",
     "status": "down",
-    "uptime": "60.33%",
+    "uptime": "60.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "63.87%",
+    "uptimeYear": "64.14%",
     "time": 431,
     "timeDay": 0,
     "timeWeek": 0,
@@ -147,8 +147,7 @@
       "2022-05-10": 48,
       "2022-05-09": 1422,
       "2022-05-08": 1440,
-      "2022-05-07": 1182,
-      "2022-05-06": 1440
+      "2022-05-07": 1182
     }
   },
   {
@@ -157,7 +156,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/keycloak.pastis-hosting.net.ico",
     "slug": "keycloak",
     "status": "down",
-    "uptime": "61.57%",
+    "uptime": "61.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -166,7 +165,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 496,
+    "timeYear": 453,
     "dailyMinutesDown": {
       "2022-09-15": 1180,
       "2022-09-14": 1440,
@@ -314,9 +313,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "0.00%",
     "time": 131,
-    "timeDay": 93,
-    "timeWeek": 132,
-    "timeMonth": 137,
+    "timeDay": 174,
+    "timeWeek": 134,
+    "timeMonth": 140,
     "timeYear": 128,
     "dailyMinutesDown": {
       "2022-09-15": 2356,
@@ -450,8 +449,7 @@
       "2022-05-10": 140,
       "2022-05-09": 4028,
       "2022-05-08": 4320,
-      "2022-05-07": 3393,
-      "2022-05-06": 1447
+      "2022-05-07": 3393
     }
   },
   {
@@ -460,7 +458,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pastis-hosting.net.ico",
     "slug": "www",
     "status": "down",
-    "uptime": "66.83%",
+    "uptime": "66.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -469,7 +467,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 534,
+    "timeYear": 486,
     "dailyMinutesDown": {
       "2022-08-25": 1367,
       "2022-08-24": 1440,
@@ -581,8 +579,7 @@
       "2022-05-10": 45,
       "2022-05-09": 1284,
       "2022-05-08": 1440,
-      "2022-05-07": 1155,
-      "2022-05-06": 7
+      "2022-05-07": 1155
     }
   }
 ]
