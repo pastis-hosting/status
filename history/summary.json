@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/argocd.pastis-hosting.net.ico",
     "slug": "argocd",
     "status": "down",
-    "uptime": "61.21%",
+    "uptime": "61.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "65.81%",
+    "uptimeYear": "66.09%",
     "time": 431,
     "timeDay": 0,
     "timeWeek": 0,
@@ -138,8 +138,7 @@
       "2022-05-19": 1440,
       "2022-05-18": 1440,
       "2022-05-17": 1440,
-      "2022-05-16": 1440,
-      "2022-05-15": 1440
+      "2022-05-16": 1440
     }
   },
   {
@@ -148,11 +147,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/keycloak.pastis-hosting.net.ico",
     "slug": "keycloak",
     "status": "down",
-    "uptime": "62.42%",
+    "uptime": "62.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "65.81%",
+    "uptimeYear": "66.08%",
     "time": 462,
     "timeDay": 0,
     "timeWeek": 0,
@@ -281,8 +280,7 @@
       "2022-05-19": 1440,
       "2022-05-18": 1440,
       "2022-05-17": 1440,
-      "2022-05-16": 1440,
-      "2022-05-15": 1440
+      "2022-05-16": 1440
     }
   },
   {
@@ -295,11 +293,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "3.14%",
+    "uptimeYear": "3.97%",
     "time": 131,
-    "timeDay": 109,
+    "timeDay": 135,
     "timeWeek": 112,
-    "timeMonth": 127,
+    "timeMonth": 129,
     "timeYear": 127,
     "dailyMinutesDown": {
       "2022-09-15": 2356,
@@ -405,7 +403,6 @@
       "2022-05-18": 4320,
       "2022-05-17": 4320,
       "2022-05-16": 4320,
-      "2022-05-15": 4320,
       "2022-09-14": 2880,
       "2022-09-13": 2880,
       "2022-09-12": 2880,
@@ -434,11 +431,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pastis-hosting.net.ico",
     "slug": "www",
     "status": "down",
-    "uptime": "67.56%",
+    "uptime": "67.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "71.53%",
+    "uptimeYear": "71.80%",
     "time": 455,
     "timeDay": 0,
     "timeWeek": 0,
@@ -546,8 +543,7 @@
       "2022-05-19": 1440,
       "2022-05-18": 1440,
       "2022-05-17": 1440,
-      "2022-05-16": 1440,
-      "2022-05-15": 1440
+      "2022-05-16": 1440
     }
   }
 ]
