@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/argocd.pastis-hosting.net.ico",
     "slug": "argocd",
     "status": "down",
-    "uptime": "66.49%",
+    "uptime": "66.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "83.35%",
+    "uptimeYear": "83.63%",
     "time": 431,
     "timeDay": 0,
     "timeWeek": 0,
@@ -74,8 +74,7 @@
       "2022-07-22": 1440,
       "2022-07-21": 1440,
       "2022-07-20": 1440,
-      "2022-07-19": 1440,
-      "2022-07-18": 1440
+      "2022-07-19": 1440
     }
   },
   {
@@ -84,11 +83,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/keycloak.pastis-hosting.net.ico",
     "slug": "keycloak",
     "status": "down",
-    "uptime": "67.53%",
+    "uptime": "67.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "83.34%",
+    "uptimeYear": "83.62%",
     "time": 462,
     "timeDay": 0,
     "timeWeek": 0,
@@ -153,8 +152,7 @@
       "2022-07-22": 1440,
       "2022-07-21": 1440,
       "2022-07-20": 1440,
-      "2022-07-19": 1440,
-      "2022-07-18": 1440
+      "2022-07-19": 1440
     }
   },
   {
@@ -163,15 +161,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.pastis-hosting.net.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "6.00%",
+    "uptime": "6.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "55.75%",
+    "uptimeYear": "56.58%",
     "time": 129,
-    "timeDay": 175,
-    "timeWeek": 119,
-    "timeMonth": 122,
+    "timeDay": 183,
+    "timeWeek": 137,
+    "timeMonth": 124,
     "timeYear": 122,
     "dailyMinutesDown": {
       "2022-09-15": 2356,
@@ -213,7 +211,6 @@
       "2022-07-21": 4320,
       "2022-07-20": 4320,
       "2022-07-19": 4320,
-      "2022-07-18": 4320,
       "2022-09-14": 2880,
       "2022-09-13": 2880,
       "2022-09-12": 2880,
@@ -242,11 +239,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pastis-hosting.net.ico",
     "slug": "www",
     "status": "down",
-    "uptime": "71.98%",
+    "uptime": "72.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.06%",
+    "uptimeYear": "89.34%",
     "time": 455,
     "timeDay": 0,
     "timeWeek": 0,
@@ -290,8 +287,7 @@
       "2022-07-22": 1440,
       "2022-07-21": 1440,
       "2022-07-20": 1440,
-      "2022-07-19": 1440,
-      "2022-07-18": 1440
+      "2022-07-19": 1440
     }
   }
 ]
