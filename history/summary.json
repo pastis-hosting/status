@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/argocd.pastis-hosting.net.ico",
     "slug": "argocd",
     "status": "down",
-    "uptime": "67.05%",
+    "uptime": "67.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.54%",
+    "uptimeYear": "85.81%",
     "time": 431,
     "timeDay": 0,
     "timeWeek": 0,
@@ -66,8 +66,7 @@
       "2022-07-30": 1440,
       "2022-07-29": 1440,
       "2022-07-28": 1440,
-      "2022-07-27": 1440,
-      "2022-07-26": 1440
+      "2022-07-27": 1440
     }
   },
   {
@@ -76,11 +75,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/keycloak.pastis-hosting.net.ico",
     "slug": "keycloak",
     "status": "down",
-    "uptime": "68.08%",
+    "uptime": "68.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.54%",
+    "uptimeYear": "85.81%",
     "time": 458,
     "timeDay": 0,
     "timeWeek": 0,
@@ -137,8 +136,7 @@
       "2022-07-30": 1440,
       "2022-07-29": 1440,
       "2022-07-28": 1440,
-      "2022-07-27": 1440,
-      "2022-07-26": 1440
+      "2022-07-27": 1440
     }
   },
   {
@@ -147,16 +145,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.pastis-hosting.net.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "7.57%",
+    "uptime": "7.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "62.32%",
+    "uptimeYear": "63.15%",
     "time": 129,
-    "timeDay": 130,
-    "timeWeek": 125,
-    "timeMonth": 130,
-    "timeYear": 123,
+    "timeDay": 132,
+    "timeWeek": 130,
+    "timeMonth": 129,
+    "timeYear": 122,
     "dailyMinutesDown": {
       "2022-09-15": 2356,
       "2022-08-25": 4247,
@@ -189,7 +187,6 @@
       "2022-07-29": 4320,
       "2022-07-28": 4320,
       "2022-07-27": 4320,
-      "2022-07-26": 4320,
       "2022-09-14": 2880,
       "2022-09-13": 2880,
       "2022-09-12": 2880,
@@ -218,11 +215,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pastis-hosting.net.ico",
     "slug": "www",
     "status": "down",
-    "uptime": "72.45%",
+    "uptime": "72.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.25%",
+    "uptimeYear": "91.53%",
     "time": 453,
     "timeDay": 0,
     "timeWeek": 0,
@@ -258,8 +255,7 @@
       "2022-07-30": 1440,
       "2022-07-29": 1440,
       "2022-07-28": 1440,
-      "2022-07-27": 1440,
-      "2022-07-26": 1440
+      "2022-07-27": 1440
     }
   }
 ]
