@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/argocd.pastis-hosting.net.ico",
     "slug": "argocd",
     "status": "down",
-    "uptime": "69.94%",
+    "uptime": "70.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.14%",
+    "uptimeYear": "98.42%",
     "time": 548,
     "timeDay": 0,
     "timeWeek": 0,
@@ -20,8 +20,7 @@
       "2022-09-14": 1440,
       "2022-09-13": 1440,
       "2022-09-12": 1440,
-      "2022-09-11": 1440,
-      "2022-09-10": 1440
+      "2022-09-11": 1440
     }
   },
   {
@@ -30,11 +29,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/keycloak.pastis-hosting.net.ico",
     "slug": "keycloak",
     "status": "down",
-    "uptime": "70.88%",
+    "uptime": "70.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.14%",
+    "uptimeYear": "98.41%",
     "time": 412,
     "timeDay": 0,
     "timeWeek": 0,
@@ -45,8 +44,7 @@
       "2022-09-14": 1440,
       "2022-09-13": 1440,
       "2022-09-12": 1440,
-      "2022-09-11": 1440,
-      "2022-09-10": 1440
+      "2022-09-11": 1440
     }
   },
   {
@@ -55,23 +53,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.pastis-hosting.net.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "15.68%",
+    "uptime": "15.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.27%",
+    "uptimeYear": "96.82%",
     "time": 127,
-    "timeDay": 58,
-    "timeWeek": 156,
-    "timeMonth": 131,
-    "timeYear": 125,
+    "timeDay": 129,
+    "timeWeek": 146,
+    "timeMonth": 130,
+    "timeYear": 126,
     "dailyMinutesDown": {
       "2022-09-15": 2356,
       "2022-09-14": 2880,
       "2022-09-13": 2880,
       "2022-09-12": 2880,
-      "2022-09-11": 2880,
-      "2022-09-10": 2880
+      "2022-09-11": 2880
     }
   },
   {
@@ -80,7 +77,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pastis-hosting.net.ico",
     "slug": "www",
     "status": "down",
-    "uptime": "74.86%",
+    "uptime": "74.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
