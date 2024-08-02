@@ -2,14 +2,8 @@ owner: pastis-hosting
 repo: status
 
 sites:
-  - name: argocd
-    url: https://argocd.pastis-hosting.net
-  - name: keycloak
-    url: https://keycloak.pastis-hosting.net
-  - name: status
-    url: https://status.pastis-hosting.net
-  - name: www
-    url: https://www.pastis-hosting.net
+  - name: brkcore.fr
+    url: https://www.brkcore.fr
 
 assignees:
   - trivoallan
