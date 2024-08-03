@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.brkcore.fr.ico",
     "slug": "brkcore-fr",
     "status": "up",
-    "uptime": "90.31%",
-    "uptimeDay": "90.31%",
-    "uptimeWeek": "90.31%",
-    "uptimeMonth": "90.31%",
-    "uptimeYear": "90.31%",
-    "time": 1604,
-    "timeDay": 1604,
-    "timeWeek": 1604,
-    "timeMonth": 1604,
-    "timeYear": 1604,
+    "uptime": "98.73%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "98.73%",
+    "uptimeMonth": "98.73%",
+    "uptimeYear": "98.73%",
+    "time": 1611,
+    "timeDay": 1611,
+    "timeWeek": 1611,
+    "timeMonth": 1611,
+    "timeYear": 1611,
     "dailyMinutesDown": {
-      "2024-08-02": 25
+      "2024-08-02": 18
     }
   }
 ]
