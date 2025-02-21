@@ -4,7 +4,7 @@
     "url": "https://www.brkcore.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.brkcore.fr.ico",
     "slug": "brkcore-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1929,
     "timeYear": 2441,
     "dailyMinutesDown": {
+      "2025-02-21": 0,
       "2024-11-29": 505,
       "2024-11-26": 26,
       "2024-11-12": 687,
